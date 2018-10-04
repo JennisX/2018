@@ -8,5 +8,8 @@
     <h1>
         我的世界
     </h1>
+    <script>
+        document.getElementsByTagName("h1")[0].style = "color:blue";
+    </script>
 </body>
 </html>
